@@ -1,6 +1,6 @@
 # Ergonomic Password Generator (EP)
 
-:fire: Even though the original paper claims that the ergonomic password scheme is secure, this might not be the case. Use at your own risk. We found some statistical issues indicating that the security might not be as high as claimed by the authors. :fire:
+Even though the original paper claims that the ergonomic password scheme is secure, this might not be the case. Use at your own risk. We found some statistical issues indicating that the security might not be as high as claimed by the authors.
 
 
 
